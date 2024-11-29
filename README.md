@@ -56,3 +56,7 @@ Siga estas etapas para rodar o projeto na sua máquina local:
 
    Abra o navegador e acesse `http://localhost:3000`.
 
+5. **Versão online:**
+
+   Abra o navegador e acesse o banco de dados `https://db-liferay.onrender.com/`.
+   E depois abra o site: `https://green-life-ray.vercel.app/`
