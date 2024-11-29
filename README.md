@@ -1,4 +1,4 @@
-# Portal Liferay
+# Portal GreenLiferay
 
 ## Descrição
 
@@ -13,6 +13,7 @@ Este é um projeto desenvolvido para a empresa Liferay pelo squad 39.
 
 ## Tecnologias Utilizadas
 
+- [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Next.js](https://nextjs.org)
@@ -28,8 +29,8 @@ Siga estas etapas para rodar o projeto na sua máquina local:
 1. **Clone o repositório:**
 
    ```bash
-   https://github.com/Squad-39-LifeRay/liferay-next.git
-   cd liferay-next
+   https://github.com/beater27032001/GreenLiferay.git
+   cd GreenLiferay
 
    ```
 
